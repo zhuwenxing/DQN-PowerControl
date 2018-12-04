@@ -1,3 +1,5 @@
+注;本代码是从Jun Fang教授的主页下载
+
 **DQN-power-control** is the code for applying deep reinforcement learning for spectrum sharing in cognitive radios, available at http://www.junfang-uestc.net/codes/DQN-power-control.rar.
 
 The code has been tested on Ubuntu 14.04 + tensorflow 1.0.0 + Python 2.7.
